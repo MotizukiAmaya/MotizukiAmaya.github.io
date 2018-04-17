@@ -1,0 +1,57 @@
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	textarea {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+.about-image {
+  overflow: hidden;
+  border: 4px solid #dddddd;
+  margin-bottom: 40px;
+}
+.about-image img {
+  width: 100%;
+  display: block;
+}
+
+	.image {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		.image img {
+			position: relative;
+			-ms-behavior: url("assets/js/ie/PIE.htc");
+		}
+
+	.icon.major {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	.button {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+	.box.post .inner {
+		margin-left: 35%;
+	}
+
+
+	.dropotron {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+
+	#banner {
+		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+	}
+
+	.wrapper.style2 {
+		background: #fdfdfd url("images/bg01.png");
+	}
